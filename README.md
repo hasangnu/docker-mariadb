@@ -2,7 +2,9 @@
 
 ```yalm
 version: "3"
+
 services:
+
   db:
     image: hasangnu/mariadb
     volumes:
